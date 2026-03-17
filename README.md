@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 AI-Powered Fake Email Detection System
 
 ## 📌 Overview
@@ -16,7 +15,7 @@ It uses Natural Language Processing (NLP) techniques to analyze email content an
 - 🧠 NLP-based text preprocessing
 - 📊 Confidence score visualization (Chart.js)
 - 🌐 Modern UI using Tailwind CSS
-- ⚡ Fast API with Flask
+- ⚡ Fast backend using Flask
 
 ---
 
@@ -32,7 +31,44 @@ It uses Natural Language Processing (NLP) techniques to analyze email content an
 ---
 
 ## 📂 Project Structure
-=======
-# AI-Fake-Email-Detection
-An AI-powered web application that detects fraudulent and phishing emails using Machine Learning and NLP techniques.
->>>>>>> 54b8f60fa14765ffcbb28d417ac4c64630d58eaa
+
+project/
+│── app.py
+│── train_model.py
+│── vectorizer.pkl
+│── phishing_model.pkl
+│── requirements.txt
+│
+└── templates/
+└── index.html
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository
+
+2. Navigate to project folder
+
+3. Install dependencies
+   pip install -r requirements.txt
+
+4. Run the app
+   python app.py
+
+5. Open browser
+   http://127.0.0.1:5000
+
+---
+
+## 📈 Future Improvements
+
+- Add deep learning model
+- Improve UI/UX
+- Deploy on cloud
+
+---
+
+## 👨‍💻 Author
+
+Vijay Bichukale
