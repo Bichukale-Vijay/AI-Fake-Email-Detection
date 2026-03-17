@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 AI-Powered Fake Email Detection System
 
 ## 📌 Overview
@@ -31,3 +32,7 @@ It uses Natural Language Processing (NLP) techniques to analyze email content an
 ---
 
 ## 📂 Project Structure
+=======
+# AI-Fake-Email-Detection
+An AI-powered web application that detects fraudulent and phishing emails using Machine Learning and NLP techniques.
+>>>>>>> 54b8f60fa14765ffcbb28d417ac4c64630d58eaa
